@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About 2
+title: Blog
 ---
 
 <p class="message">
