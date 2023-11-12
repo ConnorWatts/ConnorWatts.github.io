@@ -2,7 +2,7 @@
 title:               Connor Watts
 tagline:             'AI Research'
 description:         ''
-url:                 co
+url:                 'https://connorwatts.github.io/'
 baseurl:             'https://connorwatts.github.io/'
 paginate:            5
 permalink:           pretty
