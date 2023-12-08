@@ -2,7 +2,7 @@
 layout: post
 title: Scalable Bayesian Reinforcement Learning
 ---
-The aim of this post is to introduce to you the topic of my PhD research. Before we look at look at what, let's first set the scene. 
+The aim of this post is to introduce to you the topic of my PhD research. My research goal is to investigate methods to scale Bayesian reinforcement learning to handle large-scale problems. Before we look at what this means and why I think this is a nobable endeavour, let's first set the scene. 
 
 ![An Intelligent Agent.](https://raw.githubusercontent.com/ConnorWatts/ConnorWatts.github.io/master/Rubiks.gif)
 *An Intelligent Agent*
