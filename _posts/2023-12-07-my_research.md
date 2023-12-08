@@ -5,6 +5,7 @@ title: Scalable Bayesian Reinforcement Learning
 The aim of this post is to introduce to you the topic of my PhD research. Before we look at look at what, let's first set the scene. 
 
 ![An Intelligent Agent.](https://raw.githubusercontent.com/ConnorWatts/ConnorWatts.github.io/master/Rubiks.gif)
+*An Intelligent Agent*
 
 
 I am interested in the development of intelligent agents. This development has the potential to significantly improve various industries. In many real-world scenarios, where the environment is complex and uncertain, it is often required that an agent learns from experience in order to adapt its behaviour to perform optimally. Reinforcement learning has become a natural choice for this learning process in many sequential decision-making domains. In a reinforcement learning problem, an agent interacts with an environment according to an action-selection strategy, or policy. At each interaction, the agent observes the current state of the environment, as well as receiving a reward depending on that state. A reinforcement learning algorithm seeks to find an optimal policy that maximises a long-term performance measure, typically the expected cumulative rewards. Reinforcement learning has seen recent success in a range of fields including finance, healthcare and robotics. Specifically, it has resulted in the development of agents with superhuman ability in games such as Chess and Go, Dota 2, and StarCraft II.
