@@ -3,8 +3,6 @@ layout: post
 title: The Bayesian Oracle
 ---
 
-# Can a Bayesian Oracle Prevent Harm from an AI Agent?
-
 In the world of Artificial Intelligence (AI), ensuring safety is one of the most pressing challenges as we develop increasingly powerful systems. The rapid rise of AI capabilities means that we must ask critical questions about how to prevent potential harm from these systems. One of the more fascinating proposals in AI safety comes from the paper [*"Can a Bayesian Oracle Prevent Harm from an Agent?"*](https://arxiv.org/pdf/2408.05284). The idea of using a Bayesian oracle—an AI system based on Bayesian probability—offers a novel way to predict and prevent harmful actions from other AI agents.
 
 In this post, we will dive deep into the ideas from this paper, explaining how Bayesian reasoning can be used to evaluate and bound the probability of harm from an AI agent. We’ll also discuss how this system could function in real-time to reject potentially dangerous actions and serve as a guardrail for AI systems in a wide variety of settings.

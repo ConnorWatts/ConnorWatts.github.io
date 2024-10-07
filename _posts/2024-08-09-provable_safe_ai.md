@@ -3,11 +3,9 @@ layout: post
 title: Provably Safe Systems
 ---
 
-# Provably Safe Systems: A Path to Controllable AGI
-
 Artificial General Intelligence (AGI) is no longer a distant concept reserved for science fiction. With rapid advancements in AI technology, the arrival of AGI could be just a decade away. As this possibility becomes more real, a critical question looms larger: How do we ensure that AGI remains safe and under our control?
 
-In their thought-provoking 2023 paper, Max Tegmark and Steve Omohundro argue that the answer lies in **provably safe systems**. They propose that if we want to guarantee that AGI won't cause harm—whether intentionally or unintentionally—we need to design systems whose safety can be **proven mathematically**. Anything less, they suggest, leaves humanity vulnerable to potentially catastrophic outcomes.
+In their [recent paper](https://arxiv.org/abs/2309.01933), Max Tegmark and Steve Omohundro argue that the answer lies in **provably safe systems**. They propose that if we want to guarantee that AGI won't cause harm—whether intentionally or unintentionally—we need to design systems whose safety can be **proven mathematically**. Anything less, they suggest, leaves humanity vulnerable to potentially catastrophic outcomes.
 
 So, what exactly are provably safe systems? How do they work, and why are they so important? In this blog post, we'll explore these ideas and discuss why provable safety may be the only reliable path forward as we move closer to AGI.
 
