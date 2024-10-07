@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AI and the Future of Capitalism: A Journey Through Potential Futures
+title: AI and the Future of Capitalism - A Journey Through Potential Futures
 ---
 
 The rise of Artificial Intelligence (AI) has already begun to transform industries, economies, and even our day-to-day lives. But what does this mean for the future of capitalism? Will AI lead us into a new age of unprecedented prosperity, or will it exacerbate inequality, displace human workers, and deepen societal divides? In this blog post, we’ll explore several potential futures of capitalism in a world driven by AI. We’ll examine the best-case scenarios, the worst-case scenarios, and the gray areas in between. The future of capitalism could be exciting or dystopian, depending on how AI is managed.
