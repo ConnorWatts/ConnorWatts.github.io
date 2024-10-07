@@ -70,8 +70,3 @@ title: CV
 - Leadership · Mentorship · Knows the best place in London for lunch (Advanced)
 
 ---
-
-**Links**:  
-- [Hybrid Vision](https://www.hybridvision.co.uk/)  
-- [Midas AI](https://www.getmidas.ai/)  
-- [Xenomorph Software](https://www.xenomorph.com/)
