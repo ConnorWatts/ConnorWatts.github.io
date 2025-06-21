@@ -14,7 +14,7 @@ title: CV
 
 ## EXPERIENCE
 
-### Research Engineer - [Goodfire](https://www.goodfire.ai)  (2025-present)
+### Research Fellow - [Goodfire](https://www.goodfire.ai)  (2025-present)
 - Researching circuit tracing, automated interpretability research and interpreting agents.
 
 ### Research Engineer - [Hybrid Vision](https://www.hybridvision.co.uk/)  (2024-2025)
