@@ -9,12 +9,15 @@ title: CV
 **Phone**: +447502352035  
 **Email**: connorwatts@hotmail.com  
 **Location**: London  
-**LinkedIn**: [linkedin.com/in/connor-watts](https://linkedin.com/in/connor-watts)  
+**LinkedIn**: [linkedin.com/in/connor-watts](https://uk.linkedin.com/in/connor-watts-363354232)  
 **GitHub**: [github.com/ConnorWatts](https://github.com/ConnorWatts)  
 
 ## EXPERIENCE
 
-### Research Engineer - [Hybrid Vision](https://www.hybridvision.co.uk/)  (2024-Present)
+### Research Engineer - [Goodfire](https://www.goodfire.ai)  (2025-present)
+- Researching circuit tracing, automated interpretability research and interpreting agents.
+
+### Research Engineer - [Hybrid Vision](https://www.hybridvision.co.uk/)  (2024-2025)
 - Researching solutions for control and assurance of autonomous multi-agent systems.
 - Leading the experiment designs and building the system architecture.
 - Designed a graph-based MOE architecture to scale the system efficiently to 100+ agents.
@@ -25,9 +28,6 @@ title: CV
 - Designed the pipeline for real-time streaming, processing, and analysis of financial data.
 - Designed a custom temporal graph-based RAG system for dynamic prompting.
 
-### ML Engineer - Freelance (2021-2022)
-- Developed RL algorithms for poker-playing software, boosting prediction accuracy by 20%.
-- Designed a custom environment loader and multiprocessing framework, resulting in a speedup in model training.
 
 ### Software Engineer - [Xenomorph Software](https://www.xenomorph.com/) (2018-2022)
 - Implemented large-scale IPV and MCC workflows for several leading commercial banks.
@@ -36,8 +36,8 @@ title: CV
 ## EDUCATION
 
 ### Ph.D. in Artificial Intelligence - Queen Mary University of London (2023-Present)
-- Thesis: Automated Multi-Agent Systems (Supervisor: Paulo Rauber)
-- **Skills**: Reinforcement Learning · Multi-Agent Systems · LLMs · Evolutionary Algorithms · Safe AI
+- Thesis: Interpreting In-Context Reinforcement Learning (Supervisor: Paulo Rauber)
+- **Skills**: Reinforcement Learning · Interpretablity  · 
 
 ### M.Sc. in Computational Statistics & Machine Learning - University College London (2021-2022)
 - Thesis: Generalized Energy-Based Time-Series Models (Supervisor: Brooks Paige). Top 10%.

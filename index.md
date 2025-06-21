@@ -6,9 +6,10 @@ title: Home
 # Welcome!
 
 Hello there! I'm a Researcher/ML Engineer currently pursuing a Ph.D. in Artificial Intelligence at Queen Mary University of London. I'm interested in the following areas
-- Developing scalable, intelligent, and safe multi-agent systems.
-- Automating research processes.
-- AI safety and alignment.
+
+- Interpretability.
+- Reinforcement Learning.
+- Openendedness.
 
 Before Queen Mary, I completed an MSci in Computational Statistics and Machine Learning at University College London (UCL) and a BSc in Mathematics at the University of Bristol.
 
